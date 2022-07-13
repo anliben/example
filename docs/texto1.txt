@@ -1,0 +1,5 @@
+
+1 - sobre o que e api
+2 - requisicoes [get, post, put, delete, patch, options]
+3 - codes http response
+4 - authenticacao
